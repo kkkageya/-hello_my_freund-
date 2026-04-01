@@ -27,8 +27,8 @@ body {
 }
 body{
     display: flex;
-    justify-content: center;   /* центрує по горизонталі */
-    align-items: center;       /* центрує по вертикалі */
+    justify-content: center;  
+    align-items: center;      
     height: 100vh;
     margin: 0;
     background-color: #f5f5f5;
@@ -43,6 +43,6 @@ body{
 }
 
 .greeting-card{
-    width: 250px;   /* зменшує розмір листівки */
+    width: 250px;   
     height: auto;
 }
